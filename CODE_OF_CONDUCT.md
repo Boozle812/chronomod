@@ -1,14 +1,17 @@
-# Code of Conduct
+# Contributor Covenant Code of Conduct
 
 ## Our Pledge
 
-In the interest of fostering an environment where we can all work together smoothly,
-please maintain a standard of marginal respect and focus on the goal rather than 
-starting a pissing contest to see who can scream the loudest and have their viewpoint heard.
+In the interest of fostering an open and welcoming environment, we as
+contributors and maintainers pledge to making participation in our project and
+our community a harassment-free experience for everyone, regardless of age, body
+size, disability, ethnicity, sex characteristics, gender identity and expression,
+level of experience, education, socio-economic status, nationality, personal
+appearance, race, religion, or sexual identity and orientation.
 
 ## Our Standards
 
-Examples of behavior that contributes to creating a productive environment
+Examples of behavior that contributes to creating a positive environment
 include:
 
 * Being respectful of differing viewpoints and experiences
