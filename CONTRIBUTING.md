@@ -1,1 +1,1 @@
-Comment out all your code, and make sure to work on your own branch until it works before we merge back into main.
+Comment out all your code, and make sure to utilize branches until you're sure the new feature works.
