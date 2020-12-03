@@ -1,7 +1,7 @@
-##Repo issue this branch solves (if applicable)
+#Repo issue this branch solves (if applicable)
 
 
-##List of changes in the pull request
+#List of changes in the pull request
 
 
-##Discord Usernames of contributors
+#Discord Usernames of contributors
