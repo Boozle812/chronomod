@@ -10,6 +10,15 @@ void setup() {
   int mainPotentiometer = 14;
   int volumePotentiometer = 15;
   int brightnessPotentiometer = 16;
+
+  //setting pinMode of previously defined pins
+  pinMode(ledGreen, OUTPUT);
+  pinMode(ledBlue, OUTPUT);
+  pinMode(ledYellow, OUTPUT);
+
+  pinMode(mainPotentiometer, INPUT);
+  pinMode(volumePotentiometer, INPUT);
+  pinMode(brightnessPotentiometer, INPUT);
 }
 
 void loop() {
